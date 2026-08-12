@@ -12,7 +12,7 @@ I am pursuing a Master's in Data Science at the University of Europe for Applied
 
 ## 👨‍💻 About Me
 
-- 🎓 Master's in Data Science – University of Europe for Applied Sciences, Germany
+- 🎓 Pursuing Master's in Data Science – University of Europe for Applied Sciences, Germany
 - ⚙️ Bachelor's in Mechanical Engineering
 - 📊 Experience in Data Analytics and Business Analysis
 - 🐍 Working with Python for data analysis and visualization
