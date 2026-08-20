@@ -1,18 +1,15 @@
 # Hi, I'm Stenal Rodrigues 👋
 
-### Data Analyst | Aspiring Data Scientist | Master's Student in Data Science
+### Data Analyst | Aspiring Data Scientist
 
 Welcome to my GitHub profile!
 
 I am a Data and Business Analyst with a background in Mechanical Engineering and experience across Quality Engineering, Business Analysis, and Data Analytics.
 
-I am pursuing a Master's in Data Science at the University of Europe for Applied Sciences in Germany and am building an end-to-end Data Science portfolio focused on solving real-world business problems using data.
-
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing Master's in Data Science – University of Europe for Applied Sciences, Germany
 - ⚙️ Bachelor's in Mechanical Engineering
 - 📊 Experience in Data Analytics and Business Analysis
 - 🐍 Working with Python for data analysis and visualization
@@ -122,8 +119,6 @@ Projects will be added to this section as they are completed.
 
 ## 🎓 Education
 
-### University of Europe for Applied Sciences
-**Master's in Data Science – Germany**
 
 ### University of Mumbai
 **Bachelor's in Mechanical Engineering**
